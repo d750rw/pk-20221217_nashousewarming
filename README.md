@@ -1,4 +1,4 @@
-# pk-20221217_savithahousewarming
+# pk-20221217_nashousewarming
 20221217_SavithaHouseWarming
 
 ![DSC_1104_M](public/img/DSC_1104_M.jpg)
@@ -203,4 +203,4 @@
 
 ![DSC_1231_M](public/img/DSC_1231_M.jpg)
 
-![DSC_1359_M](public/img/DSC_1359_M.jpg)}
+![DSC_1359_M](public/img/DSC_1359_M.jpg)
